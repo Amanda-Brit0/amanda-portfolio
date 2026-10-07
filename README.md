@@ -16,7 +16,7 @@ https://SEU_USUARIO.github.io/amanda-portfolio/
 ```
 amanda-portfolio/
 ├── public/
-│   ├── img/           ← coloque TODAS as imagens aqui
+│   ├── img/          
 │   └── favicon.svg
 ├── src/
 │   ├── components/
@@ -28,9 +28,9 @@ amanda-portfolio/
 │   │   ├── ContactSection/
 │   │   └── Footer/
 │   ├── data/
-│   │   ├── assets.js       ← caminhos centralizados das imagens
-│   │   ├── projects.js     ← dados dos 6 projetos
-│   │   └── technologies.js ← lista de tecnologias
+│   │   ├── assets.js     
+│   │   ├── projects.js     
+│   │   └── technologies.js 
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
