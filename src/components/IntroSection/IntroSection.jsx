@@ -91,7 +91,7 @@ export default function IntroSection() {
           <motion.p {...a(0.66)} className="text-white/40 text-sm leading-relaxed max-w-xs">
             Desenvolvedora de Software Multiplataforma.  
             Experiência acadêmica no desenvolvimento de aplicações e soluções utilizando diferentes tecnologias.  
-            Em constante aprendizado, bsucando novos desafios e oportunidades para evoluir na área da tecnologia.
+            Em constante aprendizado, buscando novos desafios e oportunidades para evoluir na área da tecnologia.
           </motion.p>
 
           {/* Skills */}
@@ -160,7 +160,7 @@ export default function IntroSection() {
               'Transformando ideias em experiências digitais.',
               'Design centrado no usuário',
               'Interfaces de alta qualidade',
-              'Responsive & Acessível',
+              'Responsivo & Acessível',
             ].map((item, i) => (
               <div key={i} className="flex items-start gap-2 max-w-[160px]">
                 <div className="relative w-3 h-3 flex-shrink-0 mt-0.5">
