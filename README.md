@@ -6,7 +6,7 @@ Construído com React + Vite + Tailwind CSS + Framer Motion.
 ### URL final
 
 ```
-https://SEU_USUARIO.github.io/amanda-portfolio/
+https://amanda-portfolio-ochre.vercel.app/
 ```
 
 ---
